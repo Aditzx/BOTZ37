@@ -1,5 +1,5 @@
 {
-  "name": "rimurubotz",
+  "name": "ditzbotz",
   "version": "1.0.0",
   "description": 37,
   "main": "index.js",
@@ -18,7 +18,7 @@
     "automation",
     "multi-device"
   ],
-  "author": "Rimurubotz",
+  "author": "AditzOfficial",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
